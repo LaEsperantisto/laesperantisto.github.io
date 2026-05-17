@@ -1,1 +1,37 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #0f1115;
+  color: #e6e6e6;
+  margin: 0;
+}
 
+header {
+  text-align: center;
+  padding: 2rem;
+}
+
+.avatar {
+  width: 80px;
+}
+
+#projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.card {
+  background: #1a1d24;
+  padding: 1rem;
+  border-radius: 12px;
+  transition: 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.card img {
+  width: 40px;
+}
