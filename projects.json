@@ -5,7 +5,6 @@
     "description": "A transpiled, statically typed programming language.",
     "icon": "assets/icons/obstruct.png",
     "repo": "https://github.com/LaEsperantisto/Obstruct",
-    "download": "assets/bin/obstruct.zip",
     "tags": ["Rust", "Transpiler"],
     "featured": true
   },
@@ -15,7 +14,6 @@
     "description": "An IDE for Obstruct.",
     "icon": "assets/icons/prism.png",
     "repo": "https://github.com/LaEsperantisto/Prism",
-    "download": "assets/bin/prism",
     "tags": ["Obstruct"],
     "featured": true
   }
