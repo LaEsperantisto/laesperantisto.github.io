@@ -9,12 +9,11 @@ async function loadProjects() {
     el.className = 'card';
 
     el.innerHTML = `
-      <img src="${p.icon}">
+      <img src="${p.icon ? p.icon : 'assets/icons/no-icon-found.png'}">
       <h3>${p.name}</h3>
       <p>${p.description}</p>
       <div class="links">
         <a href="${p.repo}" target="_blank">Repo</a>
-        ${p.download ? `<a href="${p.download}">Download</a>` : ""}
       </div>
     `;
 

@@ -21,7 +21,6 @@
     "name": "Tunnuller",
     "id": "tunnuller",
     "description": "A simple web proxy / tunnuller",
-    "icon": "assets/icons/no-icon-found.png",
     "repo": "https://github.com/LaEsperantisto/tunneller",
     "tags": ["Web", "Tunnuller"],
     "featured": true
