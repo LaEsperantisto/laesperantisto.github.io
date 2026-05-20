@@ -9,7 +9,7 @@ async function loadProjects() {
     el.className = 'card';
 
     el.innerHTML = `
-      <img src="${p.icon ? p.icon : 'assets/icons/no-icon-found.png'}">
+      <img src="${p.icon ? p.icon : 'assets/icons/no-icon-found.png'}" alt="LaEsperantisto icon">
       <h3>${p.name}</h3>
       <p>${p.description}</p>
       <div class="links">
