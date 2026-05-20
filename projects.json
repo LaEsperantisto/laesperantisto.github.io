@@ -6,7 +6,8 @@
     "icon": "assets/icons/obstruct.png",
     "repo": "https://github.com/LaEsperantisto/Obstruct",
     "tags": ["Rust", "Transpiler"],
-    "featured": true
+    "featured": true,
+    "installer": "https://raw.githubusercontent.com/LaEsperantisto/Obstruct/main/installer/install.sh",
   },
   {
     "name": "Prism",

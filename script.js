@@ -14,7 +14,7 @@ async function loadProjects() {
       <p>${p.description}</p>
       <div class="links">
         <a href="${p.repo}" target="_blank">Repo</a>
-	${p.installer ? "<a href='" + ${p.installer} + "' target='_blank'>Installer</a>" : "}
+	${p.installer ? "<a href='" + ${p.installer} + "'>Installer</a>" : "}
       </div>
     `;
 
