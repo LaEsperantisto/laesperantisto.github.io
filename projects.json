@@ -7,7 +7,7 @@
     "repo": "https://github.com/LaEsperantisto/Obstruct",
     "tags": ["Rust", "Transpiler"],
     "featured": true,
-    "installer": "https://raw.githubusercontent.com/LaEsperantisto/Obstruct/main/installer/install.sh",
+    "installer": "https://raw.githubusercontent.com/LaEsperantisto/Obstruct/main/installer/install.sh"
   },
   {
     "name": "Prism",
