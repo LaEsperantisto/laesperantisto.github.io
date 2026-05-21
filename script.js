@@ -9,7 +9,7 @@ async function loadProjects() {
     el.className = 'card';
 
     // Construct the specific install command for this project
-    const installCommand = `curl -sSfO ${p.installer} && chmod +x install.sh && ./install.sh`;
+    const installCommand = `curl -sSfO ${p.installer} && chmod +x install.sh && ./install.sh && rm ./install.sh`;
 
     el.innerHTML = `
       <img src="${p.icon ? p.icon : 'assets/icons/no-icon-found.png'}" alt="LaEsperantisto icon">
