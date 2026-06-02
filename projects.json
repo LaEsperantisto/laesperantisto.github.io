@@ -30,6 +30,7 @@
     "name": "Vector",
     "id": "vector",
     "description": "An OS written in Obstruct",
+    "icon": "assets/icons/vector.png",
     "repo": "https://github.com/LaEsperantisto/Vector",
     "tags": ["Obstruct", "OS"],
     "featured": true
