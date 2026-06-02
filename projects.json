@@ -25,5 +25,13 @@
     "repo": "https://github.com/LaEsperantisto/tunneller",
     "tags": ["Web", "Tunnuller"],
     "featured": true
+  },
+  {
+    "name": "Vector",
+    "id": "vector",
+    "description": "An OS written in Obstruct",
+    "repo": "https://github.com/LaEsperantisto/Vector",
+    "tags": ["Obstruct", "OS"],
+    "featured": true
   }
 ]
