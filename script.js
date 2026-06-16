@@ -18,6 +18,7 @@ async function loadProjects() {
       <div class="links">
         <a href="${p.repo}" target="_blank">Repo</a>
         ${p.installer ? `<button class="copy-btn" onclick="copyCommand(this, '${installCommand}')">Copy Installer</button>` : ""}
+        ${p.website ? '<a href="${p.repo}" target="_blank">Website</a>' : ''}
       </div>
     `;
 

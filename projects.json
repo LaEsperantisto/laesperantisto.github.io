@@ -42,6 +42,7 @@
     "icon": "assets/icons/sandbox.png",
     "repo": "https://github.com/LaEsperantisto/sandbox",
     "tags": ["Web", "Sandbox", "Simulator"],
-    "featured": true
+    "featured": true,
+    "website": "https://laesperantisto.github.io/sandbox"
   }
 ]
