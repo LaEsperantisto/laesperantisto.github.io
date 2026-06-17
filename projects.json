@@ -44,5 +44,14 @@
     "tags": ["Web", "Sandbox", "Simulator"],
     "featured": true,
     "website": "https://laesperantisto.github.io/sandbox"
-  }
+  },
+  {
+    "name": "Fihter",
+    "id": "fihter",
+    "description": "A 2D fighter game",
+    "repo": "https://github.com/LaEsperantisto/fihter",
+    "tags": ["Web", "Fighting", "2D"],
+    "featured": true,
+    "website": "https://laesperantisto.github.io/fihter"
+  },
 ]
