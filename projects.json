@@ -53,5 +53,14 @@
     "tags": ["Web", "Fighting", "2D"],
     "featured": true,
     "website": "https://laesperantisto.github.io/fihter"
-  }
+  },
+  {
+    "name": "PowR Sell",
+    "id": "powr-sell",
+    "description": "A 2D factory game",
+    "repo": "https://github.com/LaEsperantisto/powr-sell",
+    "tags": ["Web", "Factory", "2D"],
+    "featured": true,
+    "website": "https://laesperantisto.github.io/powr-sell"
+  },
 ]
