@@ -29,11 +29,11 @@
   {
     "name": "Vector",
     "id": "vector",
-    "description": "An OS written in Obstruct",
+    "description": "An OS written in Obstruct - PLACEHOLDER",
     "icon": "assets/icons/vector.png",
     "repo": "https://github.com/LaEsperantisto/Vector",
     "tags": ["Obstruct", "OS"],
-    "featured": true
+    "featured": false
   },
   {
     "name": "Sandbox",
@@ -41,7 +41,7 @@
     "description": "An elemental simulator",
     "icon": "assets/icons/sandbox.png",
     "repo": "https://github.com/LaEsperantisto/sandbox",
-    "tags": ["Web", "Sandbox", "Simulator"],
+    "tags": ["Web", "Sandbox", "Simulator", "Video game"],
     "featured": true,
     "website": "https://laesperantisto.github.io/sandbox"
   },
@@ -50,7 +50,7 @@
     "id": "fihter",
     "description": "A 2D fighter game",
     "repo": "https://github.com/LaEsperantisto/fihter",
-    "tags": ["Web", "Fighting", "2D"],
+    "tags": ["Web", "Fighting", "2D", "Video game"],
     "featured": true,
     "website": "https://laesperantisto.github.io/fihter"
   },
@@ -59,8 +59,16 @@
     "id": "powr-sell",
     "description": "A 2D factory game",
     "repo": "https://github.com/LaEsperantisto/powr-sell",
-    "tags": ["Web", "Factory", "2D"],
+    "tags": ["Web", "Factory", "2D", "Video game"],
     "featured": true,
     "website": "https://laesperantisto.github.io/powr-sell"
+  },
+  {
+    "name": "In Search of Lost Power",
+    "id": "in-search-of-lost-power",
+    "description": "A 2D factory game",
+    "repo": "https://github.com/LaEsperantisto/in-search-of-lost-power",
+    "tags": ["Web", "Factory", "2D", "Exploration", "Base-builder", "Video game"],
+    "featured": true
   }
 ]
