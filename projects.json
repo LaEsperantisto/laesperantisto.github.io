@@ -62,13 +62,5 @@
     "tags": ["Web", "Factory", "2D", "Video game"],
     "featured": true,
     "website": "https://laesperantisto.github.io/powr-sell"
-  },
-  {
-    "name": "In Search of Lost Power",
-    "id": "in-search-of-lost-power",
-    "description": "A 2D factory game",
-    "repo": "https://github.com/LaEsperantisto/in-search-of-lost-power",
-    "tags": ["Web", "Factory", "2D", "Exploration", "Base-builder", "Video game"],
-    "featured": true
   }
 ]
