@@ -62,5 +62,14 @@
     "tags": ["Web", "Factory", "2D", "Video game"],
     "featured": true,
     "website": "https://laesperantisto.github.io/powr-sell"
+  },
+  {
+    "name": "W-",
+    "id": "w-minus",
+    "description": "Beyond the third axis",
+    "repo": "https://github.com/LaEsperantisto/w-minus",
+    "tags": ["Web", "4D", "Video game"],
+    "featured": true,
+    "website": "https://laesperantisto.github.io/w-minus"
   }
 ]
