@@ -71,5 +71,14 @@
     "tags": ["Web", "4D", "Video game"],
     "featured": true,
     "website": "https://laesperantisto.github.io/W-"
+  },
+  {
+    "name": "All-Contribute",
+    "id": "all-contrib",
+    "description": "A World where everyone can contribute",
+    "repo": "https://github.com/LaEsperantisto/all-contribute",
+    "tags": ["Web", "Voxel", "Video game"],
+    "featured": true,
+    "website": "https://laesperantisto.github.io/all-contrib"
   }
 ]
